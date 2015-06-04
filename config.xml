@@ -15,32 +15,32 @@
 	<preference name="permissions" value="none"/>
 	
 	<!-- the default icon to be use, for BlackBerry must be less than 16kb -->
-	<icon src="laphonegap_icon.png" />
+	<icon src="curlingrock.png" />
 
 	<!-- the default splash screen to use -->
 	<!-- iOS -->
-	<gap:splash src="laphonegap_splash.png" width="320" height="480" />
-	<gap:splash src="laphonegap_splash.png" width="640" height="960" />
-	<gap:splash src="laphonegap_splash.png" width="1024" height="768" />
-	<gap:splash src="laphonegap_splash.png" width="768" height="1024" />
+	<gap:splash src="curlingrock.png" width="320" height="480" />
+	<gap:splash src="curlingrock.png" width="640" height="960" />
+	<gap:splash src="curlingrock.png" width="1024" height="768" />
+	<gap:splash src="curlingrock.png" width="768" height="1024" />
 	<!-- Android -->
-	<gap:splash src="laphonegap_splash.png" gap:platform="android" gap:density="ldpi" />
-	<gap:splash src="laphonegap_splash.png" gap:platform="android" gap:density="mdpi" />
-	<gap:splash src="laphonegap_splash.png" gap:platform="android" gap:density="hdpi" />
-	<gap:splash src="laphonegap_splash.png" gap:platform="android" gap:density="xhdpi" />
+	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="ldpi" />
+	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="xhdpi" />
 	<!-- BlackBerry -->
-	<gap:splash src="laphonegap_splash.png" gap:platform="blackberry" />
+	<gap:splash src="curlingrock.png" gap:platform="blackberry" />
 	<!-- Windows Phone -->
-	<gap:splash src="laphonegap_splash.jpg" gap:platform="winphone" />
+	<gap:splash src="curlingrock.png" gap:platform="winphone" />
 
-    <name>Hello LA PhoneGap</name>
+    <name>Curling With Friends</name>
 
     <description>
-        Simple example for phonegap usage. 
+        Curling With Friends! 
     </description>
 
-    <author href="https://laphonegap.org" email="george@laphonegap.org">
-        George McKinney 
+    <author href="http://bradthiessen.ca" email="brthiess@ualberta.ca">
+		Brad Thiessen
     </author>
 
 </widget>
