@@ -24,10 +24,10 @@
 	<gap:splash src="curlingrock.png" width="1024" height="768" />
 	<gap:splash src="curlingrock.png" width="768" height="1024" />
 	<!-- Android -->
-	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="ldpi" />
-	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="mdpi" />
-	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="hdpi" />
-	<gap:splash src="curlingrock.png" gap:platform="android" gap:density="xhdpi" />
+	<gap:splash src="images/curlingrock.png" gap:platform="android" gap:density="ldpi" />
+	<gap:splash src="images/curlingrock.png" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="images/curlingrock.png" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="images/curlingrock.png" gap:platform="android" gap:density="xhdpi" />
 	<!-- BlackBerry -->
 	<gap:splash src="curlingrock.png" gap:platform="blackberry" />
 	<!-- Windows Phone -->
