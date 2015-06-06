@@ -6,6 +6,7 @@ General
 	font-family: Helvetica, sans-serif;
 	padding: 0 !important;
 	margin: 0 !important;
+	background-repeat: no-repeat !important;
 }
 
 a {
@@ -38,12 +39,6 @@ Buttons
 }
 
 
-/********************
-Canvas
-********************/
 
-#curling-arena {
-	background: blue;
-}
 
 
